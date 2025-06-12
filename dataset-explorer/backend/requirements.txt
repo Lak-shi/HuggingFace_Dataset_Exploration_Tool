@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+httpx
+python-jose
+passlib[bcrypt]
+sentence-transformers
+scikit-learn
+numpy 
